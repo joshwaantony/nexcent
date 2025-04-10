@@ -5,7 +5,7 @@ function Section2() {
     <div>
       <h1 className='text-[26px] font-semibold text-[#4D4D4D] leading-[31px] text-center pt-[28px]'>Our Clients</h1>
       <p className='text-[12px] text-[#717171] leading-[17px] text-center pt-[6px]'>We have been working with some Fortune 500+ clients</p>
-      <div className='flex px-[100.23px] gap-[95px] pt-[12px]'>
+      <div className='flex px-[100.23px]  pt-[35px] pb-[50px] justify-between'>
         <img src='/Vector1.svg'></img>
         <img src='/Logo2.svg'></img>
         <img src='/Logo3.svg'></img>

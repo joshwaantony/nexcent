@@ -3,9 +3,9 @@ import { BsArrowRight } from "react-icons/bs";
 
 function Navbar() {
   return (
-    <div className='w-full flex justify-between items-center px-[100.23px] pt-[21.03px]'>
+    <div className='w-full flex justify-between items-center px-[100.23px] py-[21.03px]'>
      <div><img src='/Logo.svg'></img></div>
-     <div className='flex gap-[16.71px] justify-center items-center'>
+     <div className='flex gap-[55px] justify-center items-center'>
       <span className='text-[#4D4D4D] font-medium text-[11.14px]'>Home</span>
       <span className='text-[#4D4D4D] font-medium text-[11.14px]'>Features</span>
       <span className='text-[#4D4D4D] font-medium text-[11.14px]'>Community</span>
